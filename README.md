@@ -1,16 +1,15 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
+i’m a fullstack developer passionate about the best web development technologies. I have experience in projects using JavaScript, NodeJS, ReactJs and VueJs. I’m a student at "Cruzeiro do Sul" university and i always improving my skills with courses 
 
-<!--
-**DaniloFossatto/DaniloFossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ⚡ I’m currently learning VueJs
+- 💜 Looking to collaborate with Full Stack projects using HTML, CSS, Javascript,ReactJS, Vue.js, Node.js and Rest API.
+- 📫 Need help? Feel free to contact me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/danilo-fossatto-531542206/" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+  </a>
+ 
+</p>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
