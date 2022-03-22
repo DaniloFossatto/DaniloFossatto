@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
-i’m a fullstack developer passionate about the best web development technologies. I have experience in projects using JavaScript, NodeJS, ReactJs and VueJs. I’m a student at "Cruzeiro do Sul" university and i always improving my skills with courses 
+i’m a Full Stack developer passionate about the best web development technologies. I have experience in projects using JavaScript, NodeJS, ReactJs and VueJs. I’m a student at "Cruzeiro do Sul" university and i always improving my skills with courses 
 
 
 - ⚡ I’m currently learning VueJs
